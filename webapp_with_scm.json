@@ -64,7 +64,7 @@
                         "[resourceId('Microsoft.Web/sites', parameters('appname'))]"
                     ],
                     "properties": {
-                        "repoUrl":"https://github.com/*<yourgithublink>*/", 
+                        "repoUrl":"https://*<yourgithublink>*/", 
                         "branch":"main",
                         "gitHubActionConfiguration":{
                             "codeConfiguration": {
